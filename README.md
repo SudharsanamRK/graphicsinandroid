@@ -2,15 +2,15 @@
 # Ex.No:12 Design an application that draws basic graphical primitives on the screen.
 
 
-## AIM:
+## AIM
 
 To create and design an android application that draws basic graphical primitives on the screen using Android Studio.
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED
 
 Android Studio(Latest Version)
 
-## ALGORITHM:
+## ALGORITHM
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
@@ -26,7 +26,7 @@ Step 6: Draw basic object details give in MainActivity file.
 
 Step 7: Save and run the application.
 
-## PROGRAM:
+## PROGRAM
 ```
 Program to create and design an android application that draws basic graphical primitives on the screen.
 Developed by: Sudharsanam R K
